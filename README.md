@@ -1,2 +1,2 @@
 # Summarizer
-Obtaining summaries of texts with keywords.
+Obtaining summaries of texts with keywords. Just collections of functions for now.
